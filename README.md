@@ -1,8 +1,8 @@
 Hello! My name is John Milius. I'm a student at BYU-Idaho, expeceted to graduate around spring 2027.
 
-I started my journey in the computer science realm in highschool being interesting in creating simple programs using the Java Language. That grew over time over many years into my passion for computers and programming. I have made several hardware projects building my own computers on top of creating many programming projects. 
+I began my journey in computer science back in high school, where I became fascinated with creating simple programs in Java. Over the years, that interest grew into a deeper passion for computers, programming, and system design. Along the way, I built multiple PCs, completed various hardware projects, and developed a growing list of software projects across different languages and technologies.
 
-As I've learned more about the programming world I have lead an interest towards Data Engineering and Architecture. 
+As I’ve gained more experience, my interests have increasingly shifted toward Data Engineering and System Architecture—designing reliable data flows, scalable backends, and structured systems that support real-world applications.
 
 ## Skills
 **Languages:** Python • C# • JavaScript • SQL • HTML + CSS 
