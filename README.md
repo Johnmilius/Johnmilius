@@ -1,4 +1,6 @@
-Hello! My name is John Milius. I'm a student at BYU-Idaho, expeceted to graduate around spring 2027.
+## Hello! My name is John Milius.
+
+I'm a student at BYU-Idaho, expeceted to graduate around spring 2027.
 
 I began my journey in computer science back in high school, where I became fascinated with creating simple programs in Java. Over the years, that interest grew into a deeper passion for computers, programming, and system design. Along the way, I built multiple PCs, completed various hardware projects, and developed a growing list of software projects across different languages and technologies.
 
