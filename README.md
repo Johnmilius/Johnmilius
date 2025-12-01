@@ -23,5 +23,5 @@ As I’ve gained more experience, my interests have increasingly shifted toward 
 - Database architecture & optimization  
 - Backend design patterns 
 - Building scalable data workflows  
-- Connecting backend → frontend cleanly
+- Connecting backend to frontend cleanly
 - Datastructures and algorithms
