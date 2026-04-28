@@ -1,27 +1,41 @@
-## Hello! My name is John Milius.
+# Hi, I'm John Milius
 
-I'm a student at BYU-Idaho, expeceted to graduate around spring 2027.
+I'm a Computer Science student at BYU–Idaho with a Data Engineering emphasis, expected to graduate Spring 2027.
 
-I began my journey in computer science back in high school, where I became fascinated with creating simple programs in Java. Over the years, that interest grew into a deeper passion for computers, programming, and system design. Along the way, I built multiple PCs, completed various hardware projects, and developed a growing list of software projects across different languages and technologies.
+I got started in high school building things in Java, and over the years that curiosity grew into a serious interest in system design, data engineering, and scalable backend architecture. Along the way I've built multiple PCs, completed hardware projects, and developed software across a range of languages and technologies. These days I'm most focused on designing reliable data flows, structured backends, and systems that support real-world business applications.
 
-As I’ve gained more experience, my interests have increasingly shifted toward Data Engineering and System Architecture—designing reliable data flows, scalable backends, and structured systems that support real-world applications.
+---
 
 ## Skills
-**Languages:** Python • C# • JavaScript • SQL • HTML + CSS 
-**Data & Storage:** Relational DBs • SQL schema design • Normalization • Firebase • json 
-**Tools:** VS Code • Git • Docker • MySql Workbench
+
+**Languages:** Python · C# · JavaScript · SQL · HTML + CSS
+
+**Data & Storage:** Relational databases · SQL schema design · Normalization · Firebase · JSON
+
+**Tools:** VS Code · Git · Docker · MySQL Workbench
+
+---
 
 ## Projects
-**SkateMap:** A Deployed website that uses Json storage to handle the creation and updating of Skating spots on a leaflet map. Similar to Yelp but for skateboarding. 
-**HomeServerSimulation:** A Python Socket client Server messing system that handles Command request from either home devices or a centralized console. 
-**GymWorkoutDatabase:** USing MySQLWorkbench created a schema for a Gym Workout database with transactional tables. Saves peoples data of what excersise, reps, sets, and type of workout. 
 
-## IN PROGRESS
-**WarehouseSimulation:** A Full stack Project towards handling the inventory and stock of a warehouse that ships out products for other companies. Using MYSQL for the database along with Python scripts to query and anaylize data to create business reports and handle incomming orders into the most effecient picking, packing and sorting methods. 
+**WarehouseSimulation** *(In Progress)*
+A full-stack inventory management system for a warehouse that ships products on behalf of other companies. Uses MySQL for the database layer with Python scripts to query and analyze data, generate business reports, and route incoming orders through optimized picking, packing, and sorting workflows.
+
+**SkateMap**
+A deployed web app that uses JSON storage to manage the creation and updating of skate spots on an interactive Leaflet map — essentially Yelp for skateboarding.
+
+**HomeServerSimulation**
+A Python socket-based client-server messaging system that handles command requests from home devices or a centralized console.
+
+**GymWorkoutDatabase**
+A MySQL schema designed for a gym workout tracking application. Stores exercise, reps, sets, and workout type data using normalized relational tables with transactional support.
+
+---
 
 ## Currently Learning
-- Database architecture & optimization  
-- Backend design patterns 
-- Building scalable data workflows  
-- Connecting backend to frontend cleanly
-- Datastructures and algorithms
+
+- Database architecture and query optimization
+- Scalable data pipeline design
+- Backend design patterns and system architecture
+- Data structures and algorithms
+- Clean backend-to-frontend integration
